@@ -7,7 +7,7 @@ const client = new Discord.Client();
 
 const ElliottQuoteList = [
     'NONCE!',
-    'Shoutout to Janet on the M25. She is currently stuck in traffic',
+    'HELLLLOOOO EVERYBODY ITS THEUPBEATGAMER HERRREEEEE',
     'But I don\'t want a spring from the seat to enter me',
     'Can trains fat shame?',
     'Becs how\'s your grandad?',
