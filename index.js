@@ -5,8 +5,8 @@ i'm not putting in effort lol
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-const ClarkQuoteList = [
-    'My train is very bouncy',
+const ElliottQuoteList = [
+    'NONCE!',
     'Shoutout to Janet on the M25. She is currently stuck in traffic',
     'But I don\'t want a spring from the seat to enter me',
     'Can trains fat shame?',
